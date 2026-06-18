@@ -65,12 +65,12 @@ Ingredientes:
 
 A página possui:
 
-✅ Menu de navegação por âncoras  
-✅ Seção de ingredientes da massa  
-✅ Seção de ingredientes da cobertura  
-✅ Modo de preparo detalhado  
-✅ Imagens ilustrativas  
-✅ Links para compra dos ingredientes  
+Menu de navegação por âncoras  
+Seção de ingredientes da massa  
+Seção de ingredientes da cobertura  
+Modo de preparo detalhado  
+Imagens ilustrativas  
+Links para compra dos ingredientes  
 
 ## Resultado
 
