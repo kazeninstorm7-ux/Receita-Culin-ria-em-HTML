@@ -1,10 +1,10 @@
-# 🍰 Receita de Bolo de Cenoura com Chocolate
+# Receita de Bolo de Cenoura com Chocolate
 
 Projeto desenvolvido em **HTML** como atividade do curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 A página apresenta uma receita tradicional brasileira de **bolo de cenoura com cobertura de chocolate**, utilizando apenas as tags HTML estudadas em aula.
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 O objetivo da atividade foi criar uma página de receita contendo:
 
@@ -14,11 +14,11 @@ O objetivo da atividade foi criar uma página de receita contendo:
 - Links externos para compra dos ingredientes;
 - Passo a passo do modo de preparo.
 
-## 🖥️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 Receita-Culinaria-em-HTML/
 │
@@ -39,7 +39,7 @@ Receita-Culinaria-em-HTML/
 ├── ovos.jpg
 └── preparo.jpg
 
-## 🍴 Receita
+## Receita
 
 ### Massa
 
@@ -61,7 +61,7 @@ Ingredientes:
 - 1 xícara de açúcar
 - 5 colheres de sopa de leite
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 A página possui:
 
@@ -72,10 +72,10 @@ A página possui:
 ✅ Imagens ilustrativas  
 ✅ Links para compra dos ingredientes  
 
-## 📷 Resultado
+## Resultado
 
 A página final apresenta uma receita completa e organizada de bolo de cenoura com chocolate.
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Edinei Pinho**
